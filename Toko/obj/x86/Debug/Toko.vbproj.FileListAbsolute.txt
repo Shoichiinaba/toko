@@ -1,0 +1,83 @@
+C:\Toko\Toko\bin\Debug\Toko.exe
+C:\Toko\Toko\bin\Debug\Toko.pdb
+C:\Toko\Toko\bin\Debug\Toko.xml
+C:\Toko\Toko\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Toko\Toko\obj\x86\Debug\Toko.Resources.resources
+C:\Toko\Toko\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Toko\Toko\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Toko\Toko\obj\x86\Debug\Toko.exe
+C:\Toko\Toko\obj\x86\Debug\Toko.xml
+C:\Toko\Toko\obj\x86\Debug\Toko.pdb
+C:\Toko\Toko\obj\x86\Debug\Toko.FrmMenu.resources
+C:\Toko\Toko\obj\x86\Debug\Toko.FrmMerk.resources
+C:\Toko\Toko\obj\x86\Debug\Toko.FrmSatuan.resources
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.exe
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.xml
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.pdb
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\bin\Debug\Toko.exe
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\bin\Debug\Toko.pdb
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\bin\Debug\Toko.xml
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmBarang.resources
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmMenu.resources
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmMerk.resources
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmSatuan.resources
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.Resources.resources
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiBeli.resources
+F:\Buku KesembilanBelas\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiJual.resources
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.exe
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.xml
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.pdb
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\bin\Debug\Toko.exe
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\bin\Debug\Toko.pdb
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\bin\Debug\Toko.xml
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmBarang.resources
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmMenu.resources
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmMerk.resources
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmSatuan.resources
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiBeli.resources
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiJual.resources
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.Resources.resources
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Buku\Buku Kesembilanbelas\Buku\Aplikasi\Bab 2\Toko\Toko\obj\x86\Debug\Toko.FrmLookUpBarang.resources
+C:\Toko\Toko\obj\x86\Debug\Toko.FrmBarang.resources
+C:\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiBeli.resources
+C:\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiJual.resources
+F:\4 Pemrograman Database VB 2010\Toko\Toko\obj\x86\Debug\Toko.exe
+F:\4 Pemrograman Database VB 2010\Toko\Toko\obj\x86\Debug\Toko.xml
+F:\4 Pemrograman Database VB 2010\Toko\Toko\obj\x86\Debug\Toko.pdb
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.exe
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.xml
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.pdb
+F:\Pemrograman Database MySQL\Toko\Toko\bin\Debug\Toko.exe
+F:\Pemrograman Database MySQL\Toko\Toko\bin\Debug\Toko.pdb
+F:\Pemrograman Database MySQL\Toko\Toko\bin\Debug\Toko.xml
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.FrmBarang.resources
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.FrmMenu.resources
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.FrmMerk.resources
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.FrmSatuan.resources
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiBeli.resources
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiJual.resources
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\Toko.Resources.resources
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Pemrograman Database MySQL\Toko\Toko\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.exe
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.xml
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.pdb
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\bin\Debug\Toko.exe
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\bin\Debug\Toko.pdb
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\bin\Debug\Toko.xml
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.vbprojResolveAssemblyReference.cache
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.FrmBarang.resources
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.FrmMenu.resources
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.FrmMerk.resources
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.FrmSatuan.resources
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiBeli.resources
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.FrmTransaksiJual.resources
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.Resources.resources
+D:\dataq\Project\DatabaseVB2010\Toko\Toko\obj\x86\Debug\Toko.vbproj.GenerateResource.Cache
